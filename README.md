@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/dkamburov/angular-training.svg?branch=master)](https://travis-ci.org/dkamburov/angular-training)
+[![Build Status](https://dev.azure.com/dkamburov/angular-training/_apis/build/status/dkamburov.angular-training?branchName=master)](https://dev.azure.com/dkamburov/angular-training/_build/latest?definitionId=1&branchName=master)
 
 # angular-training
 
